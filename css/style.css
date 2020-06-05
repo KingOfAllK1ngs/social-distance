@@ -578,5 +578,8 @@ body {
     .search {
         display: none;
     }
+    .tag {
+        margin-bottom: 10px;
+    }
 }
     
