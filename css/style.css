@@ -55,7 +55,8 @@ body {
     border-radius: 4px;
     background-image: url(../img/search-icon.svg);
     background-repeat: no-repeat;
-    background-position: right 12px center;
+    background-position: right 12px center; 
+    border-radius: 30px;
 }
 
 .navigation {
