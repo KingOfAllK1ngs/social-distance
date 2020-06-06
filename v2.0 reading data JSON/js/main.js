@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
 
         if (!response.ok) {
-            throw new Error(`Ошибка по адресу ${url}, статус ошибки ${response.status}!`);
+            throw new Error(`Какого хера я не могу получить файл по этому адресу???? ${url}, короче ${response.status} нот фаунд!!`);
         }
         publishButton.style.display = "none";
         return await response.json();
