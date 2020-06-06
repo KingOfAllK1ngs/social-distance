@@ -7,7 +7,7 @@
     "password": "21031984Kg",
     "fullName": "Григорий Каданер",
     "shortName": "Григорий",
-    "photo": "../img/admin.jpg",
+    "photo": "img/admin.jpg",
     "options": {
       "year": "numeric",
       "month": "numeric",
@@ -26,7 +26,7 @@
     "password": "12345",
     "fullName": "Денис Тухто",
     "shortName": "Денис",
-    "photo": "../img/avatar.jpg",
+    "photo": "img/avatar.jpg",
     "options": {
       "year": "numeric",
       "month": "numeric",
@@ -45,7 +45,7 @@
     "password": " ",
     "fullName": "Guest",
     "shortName": "Guest",
-    "photo": "../img/avatar.png",
+    "photo": "img/avatar.png",
     "options": {
       "year": "numeric",
       "month": "numeric",
