@@ -89,7 +89,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
 
 
-    getData('../db/db.json').then(function (data) {
+    getData('db/db.json').then(function (data) {
         let admin = data[0],
             userDenis = data[1],
             guest = data[2];
